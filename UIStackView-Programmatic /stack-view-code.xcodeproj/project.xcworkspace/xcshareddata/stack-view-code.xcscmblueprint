@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A19670A542094E4FEC584E0A3A41EB576F52D19F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A19670A542094E4FEC584E0A3A41EB576F52D19F" : 0,
+    "F4E6944A0EA0F5E460B30CE96CAD171119DF2BE0" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A2684A2F-EC4B-4882-957B-1AEF226F6B98",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A19670A542094E4FEC584E0A3A41EB576F52D19F" : "UIStackView-Programatic%20Loading\/",
+    "F4E6944A0EA0F5E460B30CE96CAD171119DF2BE0" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "stack-view-code",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "stack-view-code.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JonLz\/objc-stack-view-code.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A19670A542094E4FEC584E0A3A41EB576F52D19F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/JonLz\/ios-example-projects.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F4E6944A0EA0F5E460B30CE96CAD171119DF2BE0"
+    }
+  ]
+}
